@@ -1,0 +1,16 @@
+Estructura de Datos  =  Tipos de datos completos
+------------------------------------------------
+-Homogéneas / Heterogéneas
+	
+-Estáticas / Dinámicas
+
+-Lineales / No lineales
+
+-- Arrays  (homogéneos, estáticos, lineales)
+--Cadenas de caracteres  (homogéneos, estáticos, lineales) //String//
+--Listas  (homogéneas, dinámicas, lineales)
+--Arrays multidimensionales  (homogeneos, estáticos, no lineales)
+--Clases  (heterogeneas, estáticas, lineales)
+--Árboles y grafos  (homogéneas, donámicas, no lineales)
+
+

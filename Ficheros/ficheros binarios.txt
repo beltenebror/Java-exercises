@@ -1,0 +1,5 @@
+FICHEROS BINARIOS
+-----------------
+
+Java guarda en big-endian(tal y como lo leemos nosotros)
+

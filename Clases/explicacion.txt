@@ -1,0 +1,25 @@
+clase <-> tipo de datos   objetos <-> variables
+
+variables:
+1-tipo
+2-nombre
+3-contenido
+
+clase:
+-atributos		-> variables
+-metodos		-> funciones
+-constructores		-> funciones para inicializar los objetos
+-propiedades		->hibrido variable/funcion   (menos.en.java que es una mierda)
+-operadores		-> funcion pero que se llama como operadores arimeticos
+				java no permite definir operadores
+
+-->Ocultación (private, public):
+	private: ese metodo solo se puede usar solo desde esa clase
+	public: desde fuera de la clase 
+
+-->Poliformismo(varios métodos con el mismo nombre)
+	se permiten que dos funciones o metodos tengan el mismo nombre si tienen 
+	diferente numero de parametros, o parametros de diferente tipo
+	
+
+-->Herencia(lo explicaremos más adelante)

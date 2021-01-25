@@ -1,0 +1,14 @@
+Registros:
+=============
+Es un tipo de datos
+Puede tener dentro datos de diferentes tipos
+Cada dato que va dentro tiene un nombre
+
+En Java no existen los registro: (struct)(en java no existen asi que haremos calses)
+
+public class NombreTipo
+{
+
+
+}
+NombreTipo n;

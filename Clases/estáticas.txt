@@ -1,0 +1,12 @@
+cosas está ticas en POO
+========================
+atributos normal <=> atributos estáticos
+de los atributos estáticos hay 1 para toda la clase, se accede desde la clase y no desde cada objeto
+
+metodos normal <=> metodos estáticos
+Ventajas: no hay que crear objetos para poder ejecutar los metodos estaticos -- nombre clase.metodo
+Desventajas:No pueden accerder a los satributos que no sean estáticos
+
+constructores normal <=> constructores estáticos(en java bloques estñaicos)
+Son constructores que se ejecutan automaticamente la primera vez que vas a usar una clase.
+Sirven normalmente para nicializar los atributos estáticos.

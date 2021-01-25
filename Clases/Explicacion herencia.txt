@@ -1,0 +1,10 @@
+protected:(cosa del tiop public y static):
+privado pero se puede acceder desde los hijos, solos e usa en herencia.
+		---JAVA NO FUNCIONA ASI--
+
+-los atributos de la clase padre vale para el padre y los hijhos
+- las que se ponen en los hijos solo en dicho hijo
+
+**Al poner "Abstract" no puedes crear objetos de esa clase 
+  --se puede crear metodos abstrartos sin nada para que los hijos de dicha	
+	clase implementen esos métodos.
